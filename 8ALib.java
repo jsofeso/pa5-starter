@@ -407,3 +407,5 @@ boolean explore(int[] sound) {
   new SimpleSound(sound).explore();
   return true;
 }
+
+double PI = Math.PI;
